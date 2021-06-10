@@ -94,168 +94,155 @@ Referring Expression Understanding</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(49).pdf" style="text-decoration:none;">An Attention-based Regression Model for Grounding Textual Phrases in Images</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(50).pdf" style="text-decoration:none;">Charades-Ego: A Large-Scale Dataset of Paired Third and First Person Videos</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(51).pdf" style="text-decoration:none;">In Defense of Wireless Carrier Sense</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(52).pdf" style="text-decoration:none;">Verifying concurrent software using movers in CSPEC</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(51).pdf" style="text-decoration:none;">Phrase LocalizationWithout Paired Training Examples</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(52).pdf" style="text-decoration:none;">ImprovingWeakly Supervised Visual Grounding by Contrastive Knowledge Distillation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(53).pdf" style="text-decoration:none;">The Little Manual of
-API Design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(53).pdf" style="text-decoration:none;">Align2Ground: Weakly Supervised Phrase Grounding Guided by Image-Caption Alignment</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(54).pdf" style="text-decoration:none;">Design and Applications of a Secure and Decentralized Distributed Hash Table </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(54).pdf" style="text-decoration:none;">Revisiting Image-Language Networks for Open-ended Phrase Detection </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(55).pdf" style="text-decoration:none;">Recovering from intrusions in distributed systems with DARE</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(55).pdf" style="text-decoration:none;">VisualBERT: A Simple and Performant Baseline for Vision and Language</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(56).pdf" style="text-decoration:none;">Verifying a high-performance crash-safe file system using a tree specification </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(56).pdf" style="text-decoration:none;">MSRC: Multimodal Spatial Regression with Semantic Context for Phrase Grounding </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(57).pdf" style="text-decoration:none;">No Silver Bullet — Essence and Accident in Software Engineering</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(57).pdf" style="text-decoration:none;">Object Captioning and Retrieval with Natural Language</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(58).pdf" style="text-decoration:none;">Proving confidentiality in a file system using DISKSEC</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(59).pdf" style="text-decoration:none;">Calvin: Fast Distributed Transactions
-for Partitioned Database Systems</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(58).pdf" style="text-decoration:none;">Temporal Localization of Moments in Video Collections with Natural Language</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(59).pdf" style="text-decoration:none;">Give Me Something to Eat:
+Referring Expression Comprehension with Commonsense Knowledge</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(60).pdf" style="text-decoration:none;">Executing Web Application Queries on a Partitioned Database </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(60).pdf" style="text-decoration:none;">Grounding Referring Expressions in Images by Variational Context </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(61).pdf" style="text-decoration:none;">DNS Performance and the Effectiveness of Caching</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(61).pdf" style="text-decoration:none;">Weakly-supervised Visual Grounding of Phrases with Linguistic Structures</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(62).pdf" style="text-decoration:none;">Phase Reconciliation for Contended In-Memory Transactions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(62).pdf" style="text-decoration:none;">Dense-Captioning Events in Videos</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(63).pdf" style="text-decoration:none;">Locating Cache Performance Bottlenecks Using Data Profiling</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(63).pdf" style="text-decoration:none;">Discriminative Triad Matching
+and Reconstruction for Weakly Referring Expression Grounding</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(64).pdf" style="text-decoration:none;">Understanding Real-World Concurrency Bugs in Go</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(64).pdf" style="text-decoration:none;">AI2-THOR: An Interactive 3D Environment for Visual AI</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(65).pdf" style="text-decoration:none;">Dynamic Computation Migration
-in Distributed Shared Memory Systems </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(65).pdf" style="text-decoration:none;">Generation and Comprehension of Unambiguous Object Descriptions </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(66).pdf" style="text-decoration:none;">Extracting and Optimizing low-level bytecode from High-level verified Coq</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(66).pdf" style="text-decoration:none;">A Real-Time Cross-modality Correlation Filtering Method for Referring Expression Comprehension</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(67).pdf" style="text-decoration:none;">Multiprocessing with the Exokernel Operating System</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(67).pdf" style="text-decoration:none;">Deep Visual-Semantic Alignments for Generating Image Descriptions</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(68).pdf" style="text-decoration:none;">Fast and Flexible Application-Level
-Networking on Exokernel Systems</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(68).pdf" style="text-decoration:none;">Modeling Relationships in Referential Expressions with Compositional Modular Networks</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(69).pdf" style="text-decoration:none;">Device Transparency: a New Model for Mobile Storage</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(69).pdf" style="text-decoration:none;">Grounding of Textual Phrases in Images by Reconstruction</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(70).pdf" style="text-decoration:none;">Eyo: Device-Transparent Personal Storage</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(70).pdf" style="text-decoration:none;">Generating Visual Explanations</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(71).pdf" style="text-decoration:none;">Measuring the Effects of Internet Path Faults on
-Reactive Routing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(71).pdf" style="text-decoration:none;">Multi-modal Circulant Fusion for Video-to-Language and Backward</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(72).pdf" style="text-decoration:none;">A Distributed Hash Table</a></li> 
- 
- 
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(73).pdf" style="text-decoration:none;">Firmament: fast, centralized cluster scheduling at scale</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(74).pdf" style="text-decoration:none;">Information Flow Control for Standard OS Abstractions</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(75).pdf" style="text-decoration:none;">UIA: A Global Connectivity Architecture
-for Mobile Personal Devices</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(76).pdf" style="text-decoration:none;">Specifying Crash Safety for Storage Systems</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(77).pdf" style="text-decoration:none;">Using Crash Hoare Logic for Certifying the FSCQ File System</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(72).pdf" style="text-decoration:none;">Cops-Ref: A new Dataset and Task on Compositional Referring Expression Comprehension</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(78).pdf" style="text-decoration:none;">An Approach to Improve the Performance
-of Insertion Sort Algorithm</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(79).pdf" style="text-decoration:none;">Integrity and access control in untrusted content distribution networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(73).pdf" style="text-decoration:none;">Multi-task Collaborative Network for Joint Referring Expression Comprehension and Segmentation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(74).pdf" style="text-decoration:none;">Natural Language Object Retrieval</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(75).pdf" style="text-decoration:none;">Joint Event Detection and Description in Continuous Video Streams</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(76).pdf" style="text-decoration:none;">A Joint Speaker-Listener-Reinforcer Model for Referring Expressions</a></li>
 
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(80).pdf" style="text-decoration:none;">Waddle: A proven interpreter and test framework
-for a subset of the Go semantics</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(77).pdf" style="text-decoration:none;">ReferItGame: Referring to Objects in Photographs of Natural Scenes</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(81).pdf" style="text-decoration:none;">The Grid Roofnet:
-a Rooftop Ad Hoc Wireless Network</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(82).pdf" style="text-decoration:none;">Hare: a file system for non-cache-coherent multicores</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(83).pdf" style="text-decoration:none;">Certifying a Crash-safe File System</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(84).pdf" style="text-decoration:none;">An Overview of Approaches Used In Focused Crawlers</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(85).pdf" style="text-decoration:none;">Network Layer Support for Overlay Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(86).pdf" style="text-decoration:none;">Device-Transparent Personal Storage</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(87).pdf" style="text-decoration:none;">Bit-rate Selection in Wireless Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(88).pdf" style="text-decoration:none;">Routing Tradeoffs in Dynamic Peer­to­peer Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(89).pdf" style="text-decoration:none;">Jitk: A Trustworthy In-Kernel Interpreter Infrastructure</a></li>
-  
-  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(90).pdf" style="text-decoration:none;"> Applying Exokernel Principles to Conventional. Operating Systems</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(91).pdf" style="text-decoration:none;">User Authentication and Remote Execution
-Across Administrative Domains</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(92).pdf" style="text-decoration:none;">Karaoke: Distributed Private Messaging
-Immune to Passive Traffic Analysis</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(93).pdf" style="text-decoration:none;"> Improving Integer Security for Systems with KINT</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(94).pdf" style="text-decoration:none;">Ksplice: Automatic Rebootless Kernel Updates</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(95).pdf" style="text-decoration:none;">Smartcrawler: A Two-stage Crawler For Efficient Search Result</a></li>  
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(96).pdf" style="text-decoration:none;">Non-scalable locks are dangerous</a></li> 
-  
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(97).pdf" style="text-decoration:none;">An Analysis of Linux Scalability to Many Cores</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(78).pdf" style="text-decoration:none;">MAC: Mining Activity Concepts for Language-based Temporal Localization</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(79).pdf" style="text-decoration:none;">NeighbourhoodWatch: Referring Expression Comprehension via Language-guided Graph Attention Networks</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(98).pdf" style="text-decoration:none;">Software fault isolation with
-API integrity and multi-principal modules</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(80).pdf" style="text-decoration:none;">TALL: Temporal Activity Localization via Language Query</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(81).pdf" style="text-decoration:none;">Habitat: A Platform for Embodied AI Research</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(82).pdf" style="text-decoration:none;">Referring Image Segmentation via Recurrent Refinement Networks</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(83).pdf" style="text-decoration:none;">Key-Word-Aware Network for Referring
+Expression Image Segmentation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(84).pdf" style="text-decoration:none;">Visual Grounding with Transformers</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(85).pdf" style="text-decoration:none;">Using Syntax to Ground Referring Expressions in Natural Images</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(86).pdf" style="text-decoration:none;">LXMERT: Learning Cross-Modality Encoder Representations from Transformers</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(87).pdf" style="text-decoration:none;">Semantic Proposal for Activity Localization in Videos via Sentence Query</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(88).pdf" style="text-decoration:none;">MAttNet: Modular Attention Network for Referring Expression Comprehension</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(89).pdf" style="text-decoration:none;">What You See is What You Get:
+Visual Pronoun Coreference Resolution in Dialogues</a></li>
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(99).pdf" style="text-decoration:none;">M&M: A Passive Toolkit for Measuring, Correlating, and Tracking Path Characteristics</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(100).pdf" style="text-decoration:none;">Cache Craftiness for Fast Multicore Key-Value Storage</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(90).pdf" style="text-decoration:none;">Rethinking Diversified and Discriminative Proposal Generation for Visual Grounding</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(91).pdf" style="text-decoration:none;">Referring Expression Generation and Comprehension via Attributes</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(92).pdf" style="text-decoration:none;">Graph-Structured Referring Expression Reasoning in The Wild</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(93).pdf" style="text-decoration:none;"> MAN: Moment Alignment Network for Natural Language Moment Retrieval via Iterative Graph Adjustment</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(94).pdf" style="text-decoration:none;">Weakly Supervised Video Moment Retrieval From Text Queries</a></li> 
   
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(101).pdf" style="text-decoration:none;">Practical and effective sandboxing for non-root users</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(95).pdf" style="text-decoration:none;">PIRC Net : Using Proposal Indexing, Relationships and Context for Phrase Grounding</a></li>  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(102).pdf" style="text-decoration:none;">Extracting and optimizing formally verified code for systems programming</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(96).pdf" style="text-decoration:none;">Improving Referring Expression Grounding with Cross-modal Attention-guided Erasing</a></li> 
+  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(97).pdf" style="text-decoration:none;">Countering Language Drift via Visual Grounding</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(98).pdf" style="text-decoration:none;">Revisiting Visual Grounding</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(99).pdf" style="text-decoration:none;">Learning to Assemble Neural Module Tree Networks for Visual Grounding</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(100).pdf" style="text-decoration:none;">Neural Sequential Phrase Grounding (SeqGROUND)</a></li>  
+  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(101).pdf" style="text-decoration:none;">Conditional Image-Text Embedding Networks</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(102).pdf" style="text-decoration:none;">Grounding Action Descriptions in Videos</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(103).pdf" style="text-decoration:none;">Optimizing MapReduce for Multicore Architectures </a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(103).pdf" style="text-decoration:none;">Temporal Modular Networks for Retrieving Complex Compositional Activities in Videos</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(104).pdf" style="text-decoration:none;">MultiQ: Automated Detection of
-Multiple Bottleneck Capacities Along a Path</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(104).pdf" style="text-decoration:none;">Query-guided Regression Network with Context Policy for Phrase Grounding</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(105).pdf" style="text-decoration:none;">Towards Multiverse Databases</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(105).pdf" style="text-decoration:none;">Read,Watch, and Move: Reinforcement Learning for Temporally Grounding Natural Language Descriptions in Videos</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(106).pdf" style="text-decoration:none;">Optimizations for Performant Multiverse Databases</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(106).pdf" style="text-decoration:none;">Phrase Localization and Visual Relationship Detection with Comprehensive Image-Language Cues</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(107).pdf" style="text-decoration:none;">Multiverse Databases for Secure Web Applications</a></li> 
-  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(108).pdf" style="text-decoration:none;">Building web applications on top of encrypted data using Mylar</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(109).pdf" style="text-decoration:none;">Nail: A practical tool for parsing and generating data formats</a></li>  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(110).pdf" style="text-decoration:none;">NATRON: Overlay Routing to Oblivious Destinations </a></li>  
-   
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(111).pdf" style="text-decoration:none;">Parallel Execution for Conflicting Transactions</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(107).pdf" style="text-decoration:none;">Learning Deep Structure-Preserving Image-Text Embeddings</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(112).pdf" style="text-decoration:none;">An O(1) algorithm for implementing the LFU
-cache eviction scheme</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(108).pdf" style="text-decoration:none;">Visual Grounding via Accumulated Attention</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(113).pdf" style="text-decoration:none;">Scalable Fault Tolerance for High-Performance Streaming Dataflow</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(109).pdf" style="text-decoration:none;">Unsupervised Alignment of Actions in Video with Text Descriptions</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(114).pdf" style="text-decoration:none;">Noria: A New Take on Fast Web Application Backends</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(115).pdf" style="text-decoration:none;">Noria: dynamic, partially-stateful data-flow
-for high-performance web applications</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(110).pdf" style="text-decoration:none;">Language-driven Temporal Activity Localization: A Semantic Matching Reinforcement Learning Model </a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(116).pdf" style="text-decoration:none;">Dynamic, partially-stateful data-flow for
-high-performance Web applications</a></li>   
-   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(117).pdf" style="text-decoration:none;">Notary: A Device for Secure Transaction Approval</a></li>  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(118).pdf" style="text-decoration:none;">Notary: A Device for Secure Transaction Approval</a></li>  
-   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(119).pdf" style="text-decoration:none;">Large Scale Unit Testing for Go Programming Language Packages</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(111).pdf" style="text-decoration:none;">To Find Where You Talk: Temporal Sentence Localization in Video with Attention Based Location Regression</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(120).pdf" style="text-decoration:none;">The Design and Implementation of a
-High-Performance Active Network Node</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(121).pdf" style="text-decoration:none;">The Design, Implementation and Operation
-of an Email Pseudonym Server</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(112).pdf" style="text-decoration:none;">Comprehension-guided referring expressions</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(113).pdf" style="text-decoration:none;">Temporally Grounding Language Queries in Videos by Contextual Boundary-aware Prediction</a></li>  
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(122).pdf" style="text-decoration:none;">Reinventing Scheduling for Multicore Systems </a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(114).pdf" style="text-decoration:none;">Grounding learning of modifier dynamics: An application to color naming</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(115).pdf" style="text-decoration:none;">Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(116).pdf" style="text-decoration:none;">Recurrent Multimodal Interaction for Referring Image Segmentation</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(117).pdf" style="text-decoration:none;">Localizing Moments in Video with Natural Language</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(118).pdf" style="text-decoration:none;">Contrastive Learning for Weakly Supervised Phrase Grounding</a></li>  
+   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(119).pdf" style="text-decoration:none;">Ref-NMS:
+Breaking Proposal Bottlenecks in Two-Stage Referring Expression Grounding</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(120).pdf" style="text-decoration:none;">Scene-Intuitive Agent for Remote Embodied Visual Grounding</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(121).pdf" style="text-decoration:none;">Relation-aware Instance Refinement forWeakly Supervised Visual Grounding</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(122).pdf" style="text-decoration:none;">MDETR - Modulated Detection for End-to-End Multi-Modal Understanding </a></li>  
      
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(123).pdf" style="text-decoration:none;">Building Secure High-Performance Web Services with OKWS</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(123).pdf" style="text-decoration:none;">Disentangled Motif-aware Graph Learning for Phrase Grounding</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(124).pdf" style="text-decoration:none;">Oort: User-Centric Cloud Storage with Global Queries</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Grounding-Papers/blob/master/v(124).pdf" style="text-decoration:none;">GuessWhat?! Visual object discovery through multi-modal dialogue</a></li>   
    
    </ul>
      
